@@ -1,0 +1,7 @@
+[2026-10-20T10:29:37Z] === AST ITERATION 1 START | repo=jaraco/xlsxcessive sha=a4c270b6 ===
+[2026-10-20T10:29:37Z] [iter=1] PHASE START: ast repo=jaraco/xlsxcessive sha=a4c270b6
+[2026-10-20T10:29:37Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T10:29:40Z] [iter=1] AST chunks built count=1 triples=65837
+[2026-10-20T10:29:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a4c270b6be70278a4a9e89e8e2c836b28cb703a9/.complete
+[2026-10-20T10:29:40Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-10-20T10:29:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
